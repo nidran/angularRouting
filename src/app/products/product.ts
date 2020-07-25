@@ -1,4 +1,4 @@
-/* Defines the product entity */
+  /* Defines the product entity */
 export interface Product {
   id: number;
   productName: string;
